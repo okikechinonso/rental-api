@@ -86,23 +86,7 @@ To run tests, run:
 make test
 ```
 
-## Contributors
 
-Thanks to the following people who have contributed to this project:
-
-* Odohi David ([spankie](https://github.com/spankie)) 📖
-* Toluwase Thomas ([toluwase1](https://github.com/toluwase1)) 📖
-* Olusola Alao ([olusolaa](https://github.com/olusolaa)) 📖
-* Tambarie Gbaragbo ([Tambarie](https://github.com/Tambarie)) 🐛
-* Clinton Adebayo ([Ad3bay0c](https://github.com/Ad3bay0c)) 🐛
-* Omoyemi Arigbanla ([yemmyharry](https://github.com/yemmyharry)) 🐛
-* Victor Anyimukwu ([udodinho](https://github.com/udodinho)) 🐛
-* Franklyn Omonade ([nade-harlow](https://github.com/nade-harlow)) 🐛
-* Chisom Amadi ([Tchisom17](https://github.com/Tchisom17)) 🐛
-* Nonso Okike ([okikechinonso](https://github.com/okikechinonso)) 🐛
-* Shuaib Olurode ([OShuaib](https://github.com/OShuaib)) 🐛
-* Chukwuebuka Iroegbu ([iBoBoTi](https://github.com/iBoBoTi)) 🐛
-* Nnah Nnamdi ([techagentng](https://github.com/techagentng)) 🐛
 
 
 
